@@ -14,3 +14,15 @@
 .hand {
   overflow: auto;
 }
+
+.winner {
+  background-color: green;
+}
+
+.loser {
+  background-color: red;
+}
+
+.push {
+  background-color: blue;
+}
